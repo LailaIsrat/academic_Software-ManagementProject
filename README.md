@@ -8,7 +8,7 @@
 	Languages :
 	
           #frontend :
-		*HTML 
+		*BOOTSTRAP template 
 		*CSS
 	      #Backend :
 		*PHP
